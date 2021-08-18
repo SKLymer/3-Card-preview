@@ -48,6 +48,11 @@ I didn't want to use a set color for the button fonts, which I noticed was the s
 text color of the button to match it without the extra markup. So I wanted to make the text transparent and shine through the button background to show the container 
 looking background.
 
+DON'T USE PADDING TO CONTROL BUTTON BACKGROUND SIZE!!!!.
+
+Use width and height instead.
+
+
 ### Built with
 
 - Semantic HTML5 markup

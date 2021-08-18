@@ -140,7 +140,8 @@ font-size: 16px;
 font-weight: 500;
 margin-top: 4rem;
 mix-blend-mode: screen;
-padding: .9rem 1.7rem;    
+width: 8rem;
+height: 2.5rem;
 text-transform: capitalize;
 
 }
